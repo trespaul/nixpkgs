@@ -458,6 +458,8 @@ in
 
         rtl8189fs = callPackage ../os-specific/linux/rtl8189fs { };
 
+        rtl8723bu = callPackage ../os-specific/linux/rtl8723bu { };
+
         rtl8723ds = callPackage ../os-specific/linux/rtl8723ds { };
 
         rtl8812au = callPackage ../os-specific/linux/rtl8812au { };
